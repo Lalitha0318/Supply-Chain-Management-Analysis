@@ -134,7 +134,23 @@ The dataset consists of multiple structured files representing different compone
 
 <img width="1742" height="860" alt="image" src="https://github.com/user-attachments/assets/87407411-b608-456a-8995-48547664c405" />
 
+## **How to Use**
+
+**1)** Download or clone the repository
+
+**2)** Open dataset files from the data/ folder
+
+**3)** Run SQL queries from sql/
+
+**4)** Open dashboards in Power BI or Tableau
+
+**5)** Explore insights using filters
 
 ## **Conclusion**
 
 This end-to-end supply chain analytics project showcases the integration of Excel, SQL, Power BI, and Tableau to transform raw data into meaningful insights. The solution enables efficient monitoring of sales trends, inventory levels, and key KPIs, supporting data-driven strategies for optimizing supply chain performance.
+
+## **Project Link**
+
+
+
