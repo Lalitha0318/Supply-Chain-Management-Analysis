@@ -1,4 +1,6 @@
-# Supply-Chain-Management-Analysis (Power BI • Tableau • SQL • Excel • MySQL)
+# Supply-Chain-Management-Analysis 
+
+**Power BI • Tableau • SQL • Excel • MySQL**
 
 ## **Overview**
 
@@ -120,7 +122,17 @@ The dataset consists of multiple structured files representing different compone
 
 ## **📸 Dashboard Preview**
 
+## **PowerBI Dashboard**
+
 <img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/dc594d3c-151a-4d1f-acda-234a36338fb6" />
+
+## **Tableau Dashboard**
+
+<img width="1901" height="993" alt="Screenshot 2026-03-26 182346" src="https://github.com/user-attachments/assets/b36f0d18-a325-4fbb-8889-d37335ef3ede" />
+
+## **Excel Dashboard**
+
+<img width="1742" height="860" alt="image" src="https://github.com/user-attachments/assets/87407411-b608-456a-8995-48547664c405" />
 
 
 ## **Conclusion**
