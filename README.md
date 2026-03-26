@@ -48,25 +48,25 @@ The dataset consists of multiple structured files representing different compone
 
 **🔹 Dimension Tables (Master Data)**
 
-➤D_CUSTOMER – Contains customer details such as customer ID, demographics, and location
+➤ **D_CUSTOMER** – Contains customer details such as customer ID, demographics, and location
 
-➤D_PRODUCT – Includes product information like product ID, category, and attributes
+➤ **D_PRODUCT** – Includes product information like product ID, category, and attributes
 
-➤D_STORE – Store-related data including store ID, region, and location
+➤ **D_STORE** – Store-related data including store ID, region, and location
 
-➤D_GEOJSON_US_COUNTIES – Geographic data for mapping and regional analysis
+➤ **D_GEOJSON_US_COUNTIES** – Geographic data for mapping and regional analysis
 
-➤4_5_4_CALENDAR – Calendar table used for time-based analysis (year, month, week)
+➤ **4_5_4_CALENDAR** – Calendar table used for time-based analysis (year, month, week)
 
 **🔹 Fact Tables (Transactional Data)**
 
-➤F_SALES – Contains detailed sales transactions (revenue, quantity, date, product, store)
+➤ **F_SALES** – Contains detailed sales transactions (revenue, quantity, date, product, store)
 
-➤F_POINT_OF_SALE – Point-of-sale level data capturing real-time transactions
+➤ **F_POINT_OF_SALE** – Point-of-sale level data capturing real-time transactions
 
-➤F_INVENTORY_ADJUSTED – Inventory data including stock levels, adjustments, and valuation
+➤ **F_INVENTORY_ADJUSTED** – Inventory data including stock levels, adjustments, and valuation
 
-➤Invent View – Combined or processed dataset used for reporting and dashboard creation
+➤ **Invent View** – Combined or processed dataset used for reporting and dashboard creation
 
 ## **Supply Chain Data**
 
