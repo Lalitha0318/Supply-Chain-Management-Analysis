@@ -1,4 +1,4 @@
-# Supply-Chain-Management-Analysis
+# Supply-Chain-Management-Analysis (Power BI • Tableau • SQL • Excel • MySQL)
 
 ## **Overview**
 
@@ -101,3 +101,28 @@ The dataset consists of multiple structured files representing different compone
 **•** Dashboard Development
 
 **•** Business Problem Solving
+
+## **📌 Recommendations**
+
+➤ Implement demand forecasting models using historical sales data (388M+ records) to accurately predict future demand and reduce stock imbalances
+
+➤ Optimize inventory management by maintaining safety stock levels and identifying slow-moving and fast-moving products
+
+➤ Improve supplier performance monitoring by tracking KPIs such as delivery time, order accuracy, and consistency
+
+➤ Enhance logistics and delivery planning to reduce delays and improve on-time delivery rates
+
+➤ Automate dashboard updates in Power BI/Tableau to enable real-time tracking of supply chain performance
+
+➤ Introduce alert systems for low stock levels and delayed shipments to take proactive actions
+
+➤ Leverage data-driven decision-making by using dashboards to identify trends, inefficiencies, and cost-saving opportunities
+
+## **📸 Dashboard Preview**
+
+<img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/dc594d3c-151a-4d1f-acda-234a36338fb6" />
+
+
+## **Conclusion**
+
+This end-to-end supply chain analytics project showcases the integration of Excel, SQL, Power BI, and Tableau to transform raw data into meaningful insights. The solution enables efficient monitoring of sales trends, inventory levels, and key KPIs, supporting data-driven strategies for optimizing supply chain performance.
