@@ -1,21 +1,22 @@
 # Supply-Chain-Management-Analysis
 
-**Overview**
+## **Overview**
+
 This project presents an end-to-end supply chain management analysis using Excel, SQL, Power BI, and Tableau. It processes 388M+ sales data and 1,900+ inventory records to build an interactive dashboard that tracks product performance, sales trends, and critical supply chain KPIs, enabling actionable business insights.
 
-**Objectives**
+## **Objectives**
 
-**.** Analyze order and shipment trends
+**•** Analyze order and shipment trends
 
-**.** Track delivery performance and delays
+**•** Track delivery performance and delays
 
-**.** Optimize inventory levels
+**•** Optimize inventory levels
 
-**.** Evaluate supplier efficiency
+**•** Evaluate supplier efficiency
 
-**.** Identify cost-saving opportunities
+**•** Identify cost-saving opportunities
 
-**Tools & Technologies**
+## **Tools & Technologies**
 
 **Excel** – Data Cleaning, Pivot Tables, Dashboard
 
@@ -23,48 +24,48 @@ This project presents an end-to-end supply chain management analysis using Excel
 
 **Power BI / Tableau** – Data Visualization & Interactive Dashboards
 
-**Key KPIs**
+## **Key KPIs**
 
-**.** Total Orders
+**•** Total Orders
 
-**.** On-Time Delivery Rate
+**•** On-Time Delivery Rate
 
-**.** Average Delivery Time
+**•** Average Delivery Time
 
-**.** Inventory Turnover Ratio
+**•** Inventory Turnover Ratio
 
-**.** Supplier Performance
+**•** Supplier Performance
 
-**.** Total Supply Chain Cost
+**•** Total Supply Chain Cost
 
-**Key Insights**
+## **Key Insights**
 
-**.** Identified regions with frequent delivery delays
+**•** Identified regions with frequent delivery delays
 
-**.** Highlighted top and underperforming suppliers
+**•** Highlighted top and underperforming suppliers
 
-**.** Detected inventory imbalances (overstock/stockouts)
+**•** Detected inventory imbalances (overstock/stockouts)
 
-**.** Improved operational efficiency through data insights
+**•** Improved operational efficiency through data insights
 
-**Business Impact**
+## **Business Impact**
 
-**.** Reduced delivery delays
+**•** Reduced delivery delays
 
-**.** Improved inventory planning
+**•** Improved inventory planning
 
-**.** Optimized logistics operations
+**•** Optimized logistics operations
 
-**.**Enhanced supplier decision-making
+**•** Enhanced supplier decision-making
 
-**Skills Demonstrated**
+## **Skills Demonstrated**
 
-**.** Data Cleaning & Transformation
+**•** Data Cleaning & Transformation
 
-**.** Exploratory Data Analysis (EDA)
+**•** Exploratory Data Analysis (EDA)
 
-**.** SQL Query Writing
+**•** SQL Query Writing
 
-**.** Dashboard Development
+**•** Dashboard Development
 
-**.** Business Problem Solving
+**•** Business Problem Solving
