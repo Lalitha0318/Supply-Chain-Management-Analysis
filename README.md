@@ -4,39 +4,60 @@ This project presents an end-to-end supply chain management analysis using Excel
 
 **Objectives**
 **.**Analyze order and shipment trends
+
 **.**Track delivery performance and delays
+
 **.**Optimize inventory levels
+
 **.**Evaluate supplier efficiency
+
 **.**Identify cost-saving opportunities
 
 **Tools & Technologies**
 Excel – Data Cleaning, Pivot Tables, Dashboard
+
 SQL – Data Extraction & KPI Analysis
+
 Power BI / Tableau – Data Visualization & Interactive Dashboards
 
 **Key KPIs**
 **.**Total Orders
+
 **.**On-Time Delivery Rate
+
 **.**Average Delivery Time
+
 **.**Inventory Turnover Ratio
+
 **.**Supplier Performance
+
 **.**Total Supply Chain Cost
 
 **Key Insights**
 **.**Identified regions with frequent delivery delays
+
 **.**Highlighted top and underperforming suppliers
+
 **.**Detected inventory imbalances (overstock/stockouts)
+
 **.**Improved operational efficiency through data insights
 
 **Business Impact**
 **.**Reduced delivery delays
+
 **.**Improved inventory planning
+
 **.**Optimized logistics operations
+
 **.**Enhanced supplier decision-making
 
 **Skills Demonstrated**
 **.**Data Cleaning & Transformation
+
 **.**Exploratory Data Analysis (EDA)
+
 **.**SQL Query Writing
+
 **.**Dashboard Development
+
 **.**Business Problem Solving
