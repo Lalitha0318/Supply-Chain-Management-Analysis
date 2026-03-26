@@ -38,6 +38,38 @@ This project presents an end-to-end supply chain management analysis using Excel
 
 **•** Total Supply Chain Cost
 
+## **Dataset Overview**
+
+**Dataset Overview**
+
+The dataset consists of multiple structured files representing different components of a supply chain system, including customers, products, sales, inventory, and stores. It follows a star schema model with fact and dimension tables to enable efficient analysis.
+
+## **Inventory Data**
+
+**🔹 Dimension Tables (Master Data)**
+
+➤D_CUSTOMER – Contains customer details such as customer ID, demographics, and location
+
+➤D_PRODUCT – Includes product information like product ID, category, and attributes
+
+➤D_STORE – Store-related data including store ID, region, and location
+
+➤D_GEOJSON_US_COUNTIES – Geographic data for mapping and regional analysis
+
+➤4_5_4_CALENDAR – Calendar table used for time-based analysis (year, month, week)
+
+**🔹 Fact Tables (Transactional Data)**
+
+➤F_SALES – Contains detailed sales transactions (revenue, quantity, date, product, store)
+
+➤F_POINT_OF_SALE – Point-of-sale level data capturing real-time transactions
+
+➤F_INVENTORY_ADJUSTED – Inventory data including stock levels, adjustments, and valuation
+
+➤Invent View – Combined or processed dataset used for reporting and dashboard creation
+
+## **Supply Chain Data**
+
 ## **Key Insights**
 
 **•** Identified regions with frequent delivery delays
