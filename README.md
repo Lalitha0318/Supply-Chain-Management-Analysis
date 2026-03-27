@@ -150,7 +150,7 @@ The dataset consists of multiple structured files representing different compone
 
 This end-to-end supply chain analytics project showcases the integration of Excel, SQL, Power BI, and Tableau to transform raw data into meaningful insights. The solution enables efficient monitoring of sales trends, inventory levels, and key KPIs, supporting data-driven strategies for optimizing supply chain performance.
 
-## **Project Link**
+## 🔗**Project Link**
 
 
 
