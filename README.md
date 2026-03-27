@@ -42,8 +42,6 @@ This project presents an end-to-end supply chain management analysis using Excel
 
 ## **Dataset Overview**
 
-**Dataset Overview**
-
 The dataset consists of multiple structured files representing different components of a supply chain system, including customers, products, sales, inventory, and stores. It follows a star schema model with fact and dimension tables to enable efficient analysis.
 
 ## **Inventory Data**
